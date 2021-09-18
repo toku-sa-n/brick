@@ -94,6 +94,7 @@ executable snake
                      , microlens
                      , microlens-th
                      , random
+                     , vty
 ```
 
 ### `Snake`
